@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+}
+
+.App-header {
+  background-color: #20232a;
+  padding: 20px;
+}
+
+table {
+  width: 80%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  color: white;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #4CAF50;
+  color: white;
+}
